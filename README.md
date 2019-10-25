@@ -14,4 +14,4 @@
 ##### Evaluation
 * Compare the similarity of lungs area with ground-truth by computing Euclidean distance
 
-![alt text](https://raw.githubusercontent.com/leeshien/Visual-Information-Processing/master/visualize_result.jpg)
+![alt text](https://raw.githubusercontent.com/leeshien/Visual-Information-Processing/master/visualize_result.JPG)
