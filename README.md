@@ -9,6 +9,7 @@
 * Find Contours 
   * different contours will be formed including parts such as trachea and skull, as well as background noise
   * contours near image edges as well as contour < 2% of images are removed
+* Morphology
 * Draw lungs area
 
 ##### Evaluation
